@@ -48,3 +48,4 @@ Cette fiche descriptif détaille les fonctionnalités et objectifs du projet, me
 <br>
 <hr>
 Cette fiche de descriptif reste ouverte aux critiques et différentes propositions qui seront faites par les joueurs eux-mêmes.
+

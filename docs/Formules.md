@@ -139,7 +139,7 @@ V = (220 * Niveau + 1000 + 111 * V.Attribut + V.Item + V.Set + V.Nourriture + V.
 
 ```
 
-### Résistance au choc
+### Résistance à la foudre
 ```
 
 ```
@@ -346,4 +346,210 @@ V = (220 * Niveau + 1000 + 111 * V.Attribut + V.Item + V.Set + V.Nourriture + V.
 
 ```
 
-###
+### Dégâts mono-cible subis
+```
+
+```
+
+### Zone d'effet subis
+```
+
+```
+
+### Dégâts magique subis
+```
+
+```
+
+### Dégâts physique subis
+```
+
+```
+
+### Dégâts d'attaque puissante subis
+```
+
+```
+
+### Dégâts d'attaque légère subis
+```
+
+```
+
+### Dégâts de chute subis
+```
+
+```
+
+### Les dégâts subis
+```
+
+```
+
+## Dégâts infligés
+
+### Dégâts DOT infligés
+```
+
+```
+
+### Dégâts direct infligés
+```
+
+```
+
+### Dégâts mono-cible infligés
+```
+
+```
+
+### Dégâts AOE infligés
+```
+
+```
+
+### Dégâts magiques infligés
+```
+
+```
+
+### Dégâts physique infligés
+```
+
+```
+
+### Dégâts de foudre infligés
+```
+
+```
+
+### Dégâts de feu infligés
+```
+
+```
+
+### Dégâts de glace infligés
+```
+
+```
+
+### Dégâts de poison infligés
+```
+
+```
+
+### Dégâts de maladie infligés
+```
+
+```
+
+### Dégâts à l'arc infligés
+```
+
+```
+
+### Dégâts de saignement infligés
+```
+
+```
+
+### Dégâts infligés aux animaux de compagnie
+```
+
+```
+
+### Dégâts infligés
+```
+
+```
+
+## Restauration d'attaque lourde (HA -> Heavy Attack)
+
+### Restauration de la vigueur de l'arc HA
+```
+
+```
+
+### Restauration de vigueur double lame HA
+```
+
+```
+
+### Restauration de vigueur deux mains HA
+```
+
+```
+
+### Restauration de vigueur une mains + bouclier HA
+```
+
+```
+
+### Restauration de magie HA feu / glace
+```
+
+```
+
+### Restauration de magie HA foudre
+```
+
+```
+
+### Restauration de vigueur HA sans armes
+```
+
+```
+
+### Restauration de vigueur HA loup-garou
+```
+
+```
+
+### Constitution
+```
+
+```
+
+## Effet de statut
+
+### Dégâts des sorts de flamme de statut
+```
+
+```
+
+### Dégâts de l'arme de feu
+```
+
+```
+
+### Dégâts des sorts de foudre de statut
+```
+
+```
+
+### Dégâts des sorts de glace
+```
+
+```
+
+### Dégâts des armes de glace
+```
+
+```
+
+### Dégâts des sorts magiques de statut
+```
+
+```
+
+### Dégâts des armes magiques de statut
+```
+
+```
+
+### Dégâts des sorts physique de statut
+```
+
+```
+
+### Dégâts physiques de l'arme de statut

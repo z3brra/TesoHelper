@@ -1,0 +1,84 @@
+Sets 
+set_id       - int  - PK
+name         - text
+nb_piece     - int
+type_piece   - text
+dlc          - text
+dlc_url      - text
+zone         - text
+zone_url     - text
+only_pve     - bool
+only_pve     - bool
+able_no_proc - bool
+multi_target - bool
+invocation   - bool
+support      - bool
+
+SetProperty
+property_id - int  - PK
+set_id      - int  - FK
+nb_object   - int
+description - text
+
+Item
+item_id   - int  - PK
+name      - text
+type      - text
+image_url - text
+
+SetItem
+set_id  - int - FK
+item_id - int - FK
+
+ItemCategory
+category_id - int - PK
+name        - text
+
+SetItemCategory
+set_id      - int - FK
+category_id - int - FK
+
+Sources
+source_id - int - PK
+name      - text
+
+SetSources
+set_id    - int - FK
+source_id - int - FK
+
+Bonus
+bonus_id    - int - PK
+name        - text
+description - text
+
+SetBonus
+set_id   - int - FK
+bonus_id - int - FK
+quantity - int
+unit     - text
+duration - int
+
+GameEffect
+effect_id   - int - PK
+name        - text
+description - text
+
+SetGameEffect
+set_id    - int - FK
+effect_id - int - FK
+quantity  - int
+unit      - text
+duration  - int
+
+Invocation
+invocation_id - int - PK
+name          - text
+description   - text
+condition     - text
+
+SetInvocation
+set_id        - int - FK
+invocation_id - int - FK
+quantity      - int
+unit          - text
+duration      - int
